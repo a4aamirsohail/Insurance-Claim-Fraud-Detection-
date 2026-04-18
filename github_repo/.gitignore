@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.xlsb
+.DS_Store
+Thumbs.db
+*.env
+push_to_github.sh
